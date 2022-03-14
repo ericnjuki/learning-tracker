@@ -13,9 +13,9 @@ More about me on <a href="https://ericnjuki.com">my website</a>
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
+*Core Skills*
 |               Skill              | Introduction      |     Regular Use        | Professional use |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
-|*Core*                            |      --           |          --            |        --        |
 |**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**TypeScript**                    | ![done][done]     |                        | ![done][done]    |
 |**C#**                            | ![done][done]     | ![done][done]          | ![done][done]    |
@@ -28,10 +28,11 @@ More about me on <a href="https://ericnjuki.com">my website</a>
 |**HTML**                          | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 
+<br>
 
+*Additional Skills*
 |               Skill              | Introduction      |     Regular Use        | Professional use |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
-|*Other Skills*                    |      --           |         --             |        --        |
 |**Azure (deploying)**             | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Entity Framework**              | ![done][done]     | ![done][done]          | ![done][done]    |
 |**React hooks**                   | ![done][done]     |                        |                  |
@@ -88,7 +89,7 @@ I'm currently interested in/excited about:
 
 If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
 
-**You can [message me on Twitter](https://twitter.com/ericnjuki "@ericnjuki") or [connect on LinkeIn](https://linkedin.com/in/ericnjuki "Eric's LinkedIn")**
+**You can [message me on Twitter](https://twitter.com/ericnjuki "@ericnjuki") or connect with me [on LinkedIn](https://linkedin.com/in/ericnjuki "Eric's LinkedIn")**
 
 ----
 
