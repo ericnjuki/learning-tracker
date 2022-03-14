@@ -27,6 +27,10 @@ More about me on <a href="https://ericnjuki.com">my website</a>
 |**Vue.js**                        | ![done][done]     |                        | ![done][done]    |
 |**HTML**                          | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS**                           | ![done][done]     | ![done][done]          | ![done][done]    |
+
+
+|               Skill              | Introduction      |     Regular Use        | Professional use |
+|:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
 |*Other Skills*                    |      --           |         --             |        --        |
 |**Azure (deploying)**             | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Entity Framework**              | ![done][done]     | ![done][done]          | ![done][done]    |
